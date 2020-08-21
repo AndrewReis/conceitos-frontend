@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-	Aqui foi estudado os conceitos básicos da construção de uma API Rest em NodeJS + Express. Objetivo foi criar uma api funcional para gerenciar repositórios fake, no github, utilizando um CRUD (CREATE READ UPDATE DELETE), armazenando os dados em varáveis na memória.  
+	
 </p>
 
 
@@ -21,6 +21,10 @@
 <p align="center"> 
     <h1>React</h1>
     <p> React é a biblioteca responsavel</p>
+    <p> Componentização</p>
+    <p> Propriedade</p>
+    <p> Estado</p>
+    <p> Imutabilidade</p>
 </p>
     
 
