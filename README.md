@@ -26,13 +26,13 @@
 
 <h2>Babel</h2>
 <p>
-O acrônimo API que provém do inglês Application Programming Interface (Em português, significa Interface de Programação de Aplicações), trata-se de um conjunto de rotinas e padrões estabelecidos e documentados por uma aplicação A, para que outras aplicações consigam utilizar as funcionalidades desta aplicação A, sem precisar conhecer detalhes da implementação do software.
+    
 </p>
 
 <h2>Webpak</h2>
 <p>
-    Pra cada tipo de arquivo (.css, .png, etc..) o webpack vai converter o código de uma maneira diferente.
     
+
 </p>
 
 
