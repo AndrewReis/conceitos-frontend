@@ -6,7 +6,7 @@
 
 const soma = (a,b) => a + b ;
 
-console.log(soma(1,3));
+console.log(soma(10,3));
 
 
 //Apos rodar "yarn babel src/index.js --out-file public/bundle.js " no terminal, será criado um novo arquivo na pasta "public" chamado "bundle.js" 
