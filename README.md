@@ -19,13 +19,17 @@
 
 
 <p align="center"> 
-    <h1>React</h1>
-    <p> React é a biblioteca responsavel</p>
+    <h1>Entendendo a biblioteca</h1>
+      <li>React</li>
+      <li>ReactJS</li>
+      <li>React Native</li>
+</p>
+
     <p> Componentização</p>
     <p> Propriedade</p>
     <p> Estado</p>
     <p> Imutabilidade</p>
-</p>
+
     
 
 <h2>Babel</h2>
@@ -38,7 +42,7 @@
  atuais e mais antigos.
 </p>
 
-<h2>Webpak</h2>
+<h2>Webpack</h2>
 <p>
     
 
