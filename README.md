@@ -1,7 +1,7 @@
 <h1 align="center">
     <h1 align="center"><img src="https://github.com/AndrewReis/conceitos-nodejs/blob/master/src/assets/desafio02.png" alt="GoStack desafio 02"/></h1>
 </h1>
-<h1 align="center"> 🚀Bootcamp GoStack: Configurando o Babel</h1>
+<h1 align="center"> 🚀Bootcamp GoStack: Conceitos de Front-End</h1>
 
 <p align="center">
  <a href="#objetivo">Conceitos</a> 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-	
+	Entendendo mais a fundo sobre React, Babel e Webpack.
 </p>
 
 
@@ -30,7 +30,12 @@
 
 <h2>Babel</h2>
 <p>
-    
+    Babel é um conjunto de ferramentas
+ usado principalmente para converter
+ o código ECMAScript 2015+ em uma versão
+ compatível com versões anteriores do
+ JavaScript em navegadores ou ambientes
+ atuais e mais antigos.
 </p>
 
 <h2>Webpak</h2>
@@ -45,7 +50,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
+- [ReactJS](https://nodejs.org/en/)
+- [Babel]()
+- [Webpack]()
 
 
 <h1 id='autor'> 🙋🏽‍♂️ Autor </h1>
