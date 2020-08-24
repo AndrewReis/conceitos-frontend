@@ -23,15 +23,6 @@
       <li>React</li>
       <li>ReactJS</li>
       <li>React Native</li>
-
-
-     <h2>React</h2>
-     <p>React é uma biblioteca JavaScript para construir interfaces de usuário. 
-     </p>
-     
-     <h2>ReactJS</h2>
-     <p>b</p>
-
 </p>
 
 <h2>Babel</h2>
