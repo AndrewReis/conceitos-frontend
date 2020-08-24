@@ -46,8 +46,23 @@
 
 <h2>Webpack</h2>
 <p>
-    
-
+    O webpack é um empacotador de módulos 
+   estáticos para aplicações JavaScript modernas.
+   Ao processar a aplicação o webpack gera um gráfico que
+  mapeia cada módulo e suas dependências e gera um ou mais pacotes.
+  
+  <h3> Conceitos importantes </h3>
+  
+  <p>
+      <h2>Entry</h2>
+      Ponto de entrada que indica qual módulo o webpack 
+      deve usar para iniciar a construção do gráfico interno
+      de dependência.
+      Ao definir um ponto de entrada,
+      o webpack irá encontrar todas a dependências e fazer a importação. 
+      Por padrão o ponto de entrada é definido no arquivo ./src/index.js,
+      mas é possível definir um arquivo diferente ou até mesmo múltiplos pontos de entrada no arquivo de configuração webpack.config.js.
+  </p>
 </p>
 
 
