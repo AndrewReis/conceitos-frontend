@@ -1,7 +1,7 @@
 <h1 align="center">
     <h1 align="center"><img src="https://github.com/AndrewReis/conceitos-nodejs/blob/master/src/assets/desafio02.png" alt="GoStack desafio 02"/></h1>
 </h1>
-<h1 align="center"> 🚀Bootcamp GoStack: Conceitos de Front-End</h1>
+<h1 align="center"> 🚀Bootcamp GoStack</h1>
 
 <p align="center">
  <a href="#objetivo">Conceitos</a> 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center"> 
-	Entendendo mais a fundo sobre React, Babel e Webpack.
+	<strong>Conceitos de Front-End</strong>
 </p>
 
 
