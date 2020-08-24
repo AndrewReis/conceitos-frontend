@@ -62,9 +62,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [ReactJS](https://nodejs.org/en/)
-- [Babel]()
-- [Webpack]()
+- [ReactJS](https://reactjs.org/)
+- [Babel](https://babeljs.io/)
+- [Webpack](https://webpack.js.org/)
 
 
 <h1 id='autor'> 🙋🏽‍♂️ Autor </h1>
